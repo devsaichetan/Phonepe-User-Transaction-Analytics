@@ -254,12 +254,9 @@ PhonePe-Transaction-Analytics/
 
 
 
-```
+
 <img width="1172" height="662" alt="image" src="https://github.com/user-attachments/assets/8d415e96-6e84-4e17-91c8-d17010859ef9" />
 
-```
-
----
 
 # 💼 Skills Demonstrated
 
